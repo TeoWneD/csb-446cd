@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://teowned.github.io/blog</id>
+    <title>MIM Blog</title>
+    <updated>2015-10-25T23:29:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://teowned.github.io/blog"/>
+    <subtitle>MIM Blog</subtitle>
+    <icon>https://teowned.github.io/img/favicon.ico</icon>
+</feed>
